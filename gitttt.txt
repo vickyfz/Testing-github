@@ -1,1 +1,1 @@
-first line of command
+second line of command
